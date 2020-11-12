@@ -1,0 +1,14 @@
+{
+    "name": "koutaiba/php_fcm",
+    "description": "Projet MiddleWare Php to Python Via FCM",
+    "authors": [
+        {
+            "name": "MERSNI ALAA",
+            "email": "alaa.mihdi@gmail.com"
+        }
+    ],
+    "require": {
+        "kreait/firebase-php": "^4.35",
+        "php": ">= 7.3.11"
+    }
+}
